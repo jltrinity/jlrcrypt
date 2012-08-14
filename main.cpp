@@ -11,9 +11,8 @@ int main(int argc, char* argv[]){
 	[1-2] - [encryption-decryption]
 	[pass]
 	[int number]
-	
-
 	*************/
+
 
 	if(argc <= 3){
 	cout << "Error, please give the arguments" << endl;

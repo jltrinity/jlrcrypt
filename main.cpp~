@@ -15,7 +15,7 @@ int main(int argc, char* argv[]){
 
 	*************/
 
-	if(argc < 3){
+	if(argc <= 3){
 	cout << "Error, please give the arguments" << endl;
 	}
 	else{
